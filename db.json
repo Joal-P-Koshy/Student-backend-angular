@@ -1,0 +1,53 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "admin user",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "name": "joal",
+      "email": "joal@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "name": "abhinath",
+      "email": "abhi@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "4",
+      "name": "royal",
+      "email": "royal@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "5",
+      "name": "varun",
+      "email": "varun@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "6",
+      "name": "jithin",
+      "email": "jithin@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "name": "sufail",
+      "email": "sufail@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "7",
+      "name": "adil",
+      "email": "adil@gmail.com",
+      "status": "0"
+    }
+  ]
+}
